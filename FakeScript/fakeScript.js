@@ -91,8 +91,8 @@ var list_filename_fakes
 var dropbox_admin,dropbox_ally
 var loginAlly,loginAdmin
 (async () => {
-    dropbox_admin= await getAdmin()
-    dropbox_ally= await getAlly()
+    // dropbox_admin= await getAdmin()
+    // dropbox_ally= await getAlly()
 
 
     filename_ally=`${databaseName}/ally.txt`
